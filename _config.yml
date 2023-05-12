@@ -1,0 +1,24 @@
+# # Dependencies
+# markdown:         redcarpet
+# highlighter:      pygments
+
+# Setup
+title:            Shixing Wang
+tagline:          "Shixing Wang's Personal Website"
+description:      'Shixing Wang is a Ph.D candidate at the physics department of Washington University in St. Louis. He studies organelle biogenesis as the main job, while having several side projects and even more hobbies.'
+url:              https://shixingwang.github.io
+baseurl:          /
+permalink:        /:categories/:title
+
+author:
+  name:           'Shixing Wang'
+  url:            https://twitter.com/wang_shixing
+
+github:
+  repo:           https://github.com/ShixingWang/shixingwang.github.io
+
+# i18n
+languages:       ["en", "zh-CN"]
+lang_name:
+  en:    En
+  zh-CN: 汉

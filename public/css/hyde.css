@@ -33,7 +33,7 @@
 
 html {
   /* font-family: "PT Sans", Helvetica, Arial, sans-serif; */
-  font-family: source-han-serif-sc, source-serif-pro, 'Noto Serif', 'Times New Roman', serif;
+  font-family: "Roboto Slab", "Noto Sans", Helvetica, Arial, sans-serif;
 }
 @media (min-width: 48em) {
   html {
@@ -120,9 +120,9 @@ a.sidebar-nav-item:focus {
 @media (min-width: 48em) {
   .sidebar-sticky {
     position: absolute;
-    top: 0;
-    bottom: 0;
-    transform: translateY(25%);
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
   }
 }
 

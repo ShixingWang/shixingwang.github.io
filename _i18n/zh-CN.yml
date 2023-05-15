@@ -1,3 +1,9 @@
 global:
   title:       "王世兴"
   description: "王世兴的个人网站"
+titles:
+  index:    王世兴
+  home:     主页
+  research: 研究
+  courses:  课程
+  resume:   简历

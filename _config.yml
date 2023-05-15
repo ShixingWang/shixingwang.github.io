@@ -20,5 +20,5 @@ github:
 # i18n
 languages:       ["en", "zh-CN"]
 lang_name:
-  en:    En
+  en: En
   zh-CN: 汉

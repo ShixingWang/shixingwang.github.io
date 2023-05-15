@@ -1,3 +1,9 @@
 global:
   title:       "Shixing Wang"
   description: "Shixing Wang's personal website"
+titles:
+  index:    Shixing Wang
+  home:     Home
+  research: Research
+  courses:  Courses
+  resume:   Resumé

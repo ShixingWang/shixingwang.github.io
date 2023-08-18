@@ -7,4 +7,4 @@ permalink: /courses
 permalink_zh-CN: /courses
 ---
 
-{% tf courses.html %}
+{% tf courses.md %}

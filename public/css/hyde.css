@@ -101,6 +101,24 @@ a.sidebar-nav-item:focus {
   font-weight: bold;
 }
 
+.sidebar-icon {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.sidebar-icon li {
+  margin-right: 18px;
+}
+.sidebar-icon li:last-child {
+  margin-right: 0;
+}
+.sidebar-icon span {
+  font-size: 24px;
+}
+
 /* Sticky sidebar
  *
  * Add the `sidebar-sticky` class to the sidebar's container to affix it the

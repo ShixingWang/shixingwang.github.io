@@ -7,4 +7,4 @@ permalink: /research
 permalink_zh-CN: /research
 ---
 
-{% tf research.html %}
+{% tf research.md %}

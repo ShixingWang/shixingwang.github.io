@@ -5,9 +5,10 @@
 # Setup
 title:            Shixing Wang
 tagline:          "Shixing Wang's Personal Website"
-description:      'Shixing Wang is a Ph.D candidate at the physics department of Washington University in St. Louis. He studies organelle biogenesis as the main job, while having several side projects and even more hobbies.'
+description:      Shixing Wang works as a postdoc at the physics department of Washington University in St. Louis. He studies organelle biogenesis as the main job, while having several side projects and even more hobbies.
 url:              https://shixingwang.github.io
-baseurl:          /
+baseurl_root:     ""
+baseurl:          ""
 permalink:        /:categories/:title
 
 author:
@@ -18,7 +19,8 @@ github:
   repo:           https://github.com/ShixingWang/shixingwang.github.io
 
 # i18n
-languages:       ["en", "zh-CN"]
+languages:                  ["en", "zh-CN"]
+exclude_from_localizations: ["public"]
 lang_name:
-  en: En
+  en:    En
   zh-CN: 汉

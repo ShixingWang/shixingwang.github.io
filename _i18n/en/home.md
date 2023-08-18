@@ -1,0 +1,7 @@
+I am Shixing (Simon) Wang, a Ph.D in physics. I work with Prof. Shankar Muherji in the physics department at Washington University in St. Louis. Despite my major, the main research topic in our lab is actually cell biology. 
+
+My Ph.D project is a system-level study of sizes and counting numbers of multiple organelles in individual yeast cells. In order to do this, my colleagues and I constructed a strain of "rainbow yeast", in which 6 different organelles were tagged with fluorescent proteins of distinct colors.
+
+The big question that I want to tackle throughout my career is: *which level of complexity marks the definitional difference between living and non-living systems*. If one reviews their middle school biology textbook, they would be surprised to find that, although we can say a lot about what living systems can do, there is not much about what qualifies a system to be a living system, i.e. the definition of living systems is incomplete. The ultimate ambition of a physicist who studies biology is, of course, to make biology rigorously a subset of physics.
+
+Besides biophysics, I am interested in various intellectual topics. I keep following the advances in artificial intelligence, and am trying to apply some of their techniques to the imaging system in our lab. I have also published a few papers in astrophysics. I also attended the quantum computing hackathon and got a small prize from Microsoft. 

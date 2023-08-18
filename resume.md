@@ -7,4 +7,4 @@ permalink: /resume
 permalink_zh-CN: /resume
 ---
 
-{% tf resume.html %}
+{% tf resume.md %}

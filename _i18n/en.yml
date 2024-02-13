@@ -1,6 +1,7 @@
 global:
   title:       "Shixing Wang"
-  description: "Shixing Wang's personal website"
+  description: "Postdoctoral Research Associate<br>Washington University in St. Louis"
+  copyright:   "All rights reserved."
 titles:
   index:    Shixing Wang
   home:     Home

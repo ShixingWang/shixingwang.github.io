@@ -1,4 +1,4 @@
-## Washington University in St. Louis
+## Graduate: Washington University in St. Louis
 
 ### Physics
 
@@ -11,7 +11,7 @@
 ### Biophysics and Cell Biology
 
 * PHY554 - Physics of Living Cells
-* PHY563 - Topics in Theoretical Biophysics
+* PHY563 - Topics in Theoretical Biophysics [[2024]({{ site.baseurl }}{% post_url 2024-02-12-biophysics-journal-club-on-neural-networks-and-brain %})]
 * CSE587A - Algorithms in Computational Biology
 
 ### Workshops and Summer Schools
@@ -21,7 +21,7 @@
 * QC-Hack, a hackathon of quantum computation
 
 
-## Hongyi Honorable Class, Wuhan University
+## Undergraduate: Hongyi Honorable Class, Wuhan University
 
 ### Math & General physics
 

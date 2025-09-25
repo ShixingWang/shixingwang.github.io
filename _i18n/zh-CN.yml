@@ -1,6 +1,6 @@
 global:
   title:       "王世兴"
-  description: "博士后研究员<br>圣路易斯华盛顿大学"
+  description: "博士后研究员<br>文理学院·物理系<br>圣路易斯华盛顿大学"
   copyright:   "本站保留版权"
 titles:
   index:    王世兴
@@ -8,3 +8,4 @@ titles:
   research: 研究
   courses:  课程
   resume:   简历
+  blog:     博客

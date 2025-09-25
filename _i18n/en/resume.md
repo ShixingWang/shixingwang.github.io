@@ -34,7 +34,7 @@
 - `2022` Using GPUs with Python and accelerated data analysis, Nvidia Deep Learning Institute
 - `2021` Winning Team, Microsoft challenge at QCHack (Quantum Computation Hackathon)
 - `2021` Deep Learning for Microscopy Image Analysis, Marine Biological Lab
-- `2017-present` Cell biology lab, fluorescent confocal microscopy imaging, image processing
+- `2017-present` Wet lab skills of cell biology , fluorescent confocal microscopy imaging, image processing
 - `2017` Award II, International Theoretical Physics Olympiad for Undergraduates, Team 104
 - `2016` Honorable Mention, Mathematical Contest in Modeling, COMAP
 

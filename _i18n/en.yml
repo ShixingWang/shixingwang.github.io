@@ -1,6 +1,6 @@
 global:
   title:       "Shixing Wang"
-  description: "Postdoctoral Research Associate<br>Washington University in St. Louis"
+  description: "Postdoctoral Research Associate<br>Department of Physics<br>Washington University in St. Louis"
   copyright:   "All rights reserved."
 titles:
   index:    Shixing Wang
@@ -8,3 +8,4 @@ titles:
   research: Research
   courses:  Courses
   resume:   Resumé
+  blog:     Blog

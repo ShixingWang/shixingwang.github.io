@@ -1,3 +1,10 @@
+### [Manuscript in preparation] 
+
+> Fang Yu*, Shixing Wang*， Shankar Mukherji
+
+
+
+* Authors contributed equally in the work.
 
 ## Uncovering the principles coordinating systems-level organelle biogenesis with cellular growth
 
@@ -18,6 +25,10 @@ environmental change. This regulatory architecture may underlie how
 compartmentalization allows eukaryotes to flexibly tune cell sizes and growth rates to
 satisfy otherwise incompatible environmental and developmental constraints.
 
-## Solar radio-frequency reflectivity and localization of FRB from solar reflection
+### Solar radio-frequency reflectivity and localization of FRB from solar reflection
 
-## Arrokoth’s necklace
+https://doi.org/10.1093/mnras/stac3291.
+
+### Arrokoth’s necklace
+
+https://doi.org/10.1093/mnras/stab718

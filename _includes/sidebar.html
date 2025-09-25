@@ -15,6 +15,8 @@
       <a class="sidebar-nav-item{% capture url %}{% tl research {{site.lang}} %}{% endcapture %}{% if page.url == url %} active{% endif %}" href="{{ url }}">{% t titles.research %}</a>
       <a class="sidebar-nav-item{% capture url %}{% tl courses  {{site.lang}} %}{% endcapture %}{% if page.url == url %} active{% endif %}" href="{{ url }}">{% t titles.courses  %}</a>
       <a class="sidebar-nav-item{% capture url %}{% tl resume   {{site.lang}} %}{% endcapture %}{% if page.url == url %} active{% endif %}" href="{{ url }}">{% t titles.resume   %}</a>
+      <a class="sidebar-nav-item{% capture url %}{% tl blog     {{site.lang}} %}{% endcapture %}{% if page.url == url %} active{% endif %}" href="{{ url }}">{% t titles.blog     %}</a>
+      <p class="sidebar-nav-item"><a href="/{{ page.name | split: '.' | first }}">En</a> | <a href="/zh-CN/{{ page.name | split: '.' | first }}">中文</a></p>
     </nav>
     
     <ul class="sidebar-icon">
